@@ -1,0 +1,4 @@
+*.html
+widgettest1.py
+.ipynb_checkpoints/**
+ChapterTwo.ipynb
