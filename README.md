@@ -1,7 +1,7 @@
 # jnbplayground
 Testing Jupyter Notebooks and nbviewer
 
-Watch rendered version [here](https://nbviewer.jupyter.org/github/davidarps/jnbplayground/blob/master/Selfmade%20Tutorial.ipynb?flush_cache=true).
+Watch the rendered version [here](https://nbviewer.jupyter.org/github/davidarps/jnbplayground/blob/master/Selfmade%20Tutorial.ipynb?flush_cache=true).
 
 ## Play with the Selfmade Tutorial online
 1. Go to [the Binder homepage](https://mybinder.org/).
